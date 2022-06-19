@@ -1,0 +1,32 @@
+_repo: Happy-The-life-of-a-bee_68284
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Davis, Clement B.
+    gutenberg_agent_id: '54694'
+    url: http://www.gutenberg.org/2009/agents/54694
+creator:
+  author:
+    agent_name: McCaleb, Walter Flavius
+    gutenberg_agent_id: '54693'
+    url: http://www.gutenberg.org/2009/agents/54693
+description: ''
+gutenberg_issued: '2022-06-10'
+identifiers:
+  gutenberg: '68284'
+language: en
+pgterms:marc904: https://archive.org/details/happylifeofbee00mccarich/page/n5/mode/2up
+pgterms:marc905: 20201116172822maccaleb
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Harper & Brothers Publishers,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Happy: The life of a bee'
+url: http://www.gutenberg.org/ebooks/68284
