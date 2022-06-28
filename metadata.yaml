@@ -5,12 +5,17 @@ contributor:
     agent_name: Davis, Clement B.
     gutenberg_agent_id: '54694'
     url: http://www.gutenberg.org/2009/agents/54694
+covers:
+- cover_type: archival
+  image_path: 68284-h/images/cover.jpg
 creator:
   author:
     agent_name: McCaleb, Walter Flavius
     gutenberg_agent_id: '54693'
     url: http://www.gutenberg.org/2009/agents/54693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68284#Happy-The-life-of-a-bee
 gutenberg_issued: '2022-06-10'
 identifiers:
   gutenberg: '68284'
